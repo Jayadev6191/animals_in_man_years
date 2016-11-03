@@ -1,2 +1,2 @@
 # animals_in_man_years
-Returns animal age in man years
+Micro library which returns animal's age in man years
