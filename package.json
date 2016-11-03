@@ -1,0 +1,27 @@
+{
+  "name": "animals_in_man_years",
+  "version": "1.0.0",
+  "description": "Returns animal's age in man years",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayadev6191/animals_in_man_years.git"
+  },
+  "keywords": [
+    "animals",
+    "man",
+    "years"
+  ],
+  "author": "jaidev.akkiraju@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jayadev6191/animals_in_man_years/issues"
+  },
+  "homepage": "https://github.com/Jayadev6191/animals_in_man_years#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
